@@ -8,7 +8,7 @@ margin: 0; padding: 0;
 }
 
 img {border: none; outline: 0;}
-
+ 
 .contentContainer { float: left; width: 100%; height: auto; position: relative; background: none;}
 .contentHomepage {margin: 0 auto; width: 1109px; height: 1000px; background: url("homepage.jpg") no-repeat left top;}
 .contentPage2 {margin: 0 auto; width: 1109px; height: 4658px; background: url("../images/page2.jpg") no-repeat left top;}
